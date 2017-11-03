@@ -4,7 +4,7 @@ Posts a random image from a directory after sleeping for a specified time. Can b
 
 ## Dependencies
 
-You need to install [slack-cli](https://github.com/regisb/slack-cli), and create a legacy API token for it. You can create one as your own user, or you can create a user specifically for your ~~spam~~ delightful non-sequitors.
+You need to install [slack-cli](https://github.com/regisb/slack-cli), and create a legacy API token for it. You can create one as your own user, or you can create a user specifically for your ~~spam~~ delightful non-sequiturs.
 
 ## Configuration
 
